@@ -12,9 +12,24 @@ The technology and mathematical system used to develop the AI that controlled th
 
 ***The goal of our project is universal algorithmization in all areas of life and in all branches of activity***
 
-# Tutorial (in Russian)
+# Tutorial Textbooks (in Russian)
 
+
+
+Parondzhanov V.D. Algorithms and life rhythms in the DRAKON language. Development of algorithms. Error free algorithms. - M., 2020. - 376 p. - Illustrations: 200.
+
+Old edition. Parondzhanov V.D. Algorithms and life rhythms in the DRAKON language. Development of algorithms. Error free algorithms. - M., 2019. - 374 p. - Illustrations: 195.
+
+
+https://drakon.su/_nedia/23_zhizneritm22.pdf 
 https://drakon.su/_media/24_zhizneritm20.pdf
+
+"Algorithms and life rhythms in the DRAKON language" 
+
+The publishing house "Yurayt" will soon publish a textbook: "Parondzhanov V.D. Algorithmic languages and programming: DRAKON.
+The manual will be published in two series:
+-- for higher professional education;
+- for secondary vocational education. 
 
 ## TITLE
 
