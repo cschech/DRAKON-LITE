@@ -1,4 +1,4 @@
-*** Friendly Russian Algorithmic Language That Provides Visibility/Reliability
+***Friendly Russian Algorithmic Language That Provides Visibility/Reliability
 
 ![Image](https://github.com/cschech/DRAKON-LITE/blob/master/quick-editing.gif)
 
