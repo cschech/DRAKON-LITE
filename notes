@@ -4,4 +4,190 @@ Sat Jun 17 21:17:07 UTC 2023
 
 https://drakon.su/start
 
+-- 
+
+BEGIN TRANSLATION
+
+Welcome to the site "Visual language DRAKON"
+
+Friendly Russian Algorithmic Language That Provides Visibility/Reliability
+
+Indeed? Do you know anything about the DRAKON language?
+No problem. will help you An easy and pleasant tutorial .
+And if you are a doctor, then you are here and here .
+The goal of our project is universal algorithmization in all areas of life and in all branches of activity
+
+DRAKON Language Forum.
+There is a huge amount of valuable material on the forum. Check it out! You'll like it
+
+DRAGON Forum»
+If you have questions, register and feel free to open a new topic.
+* How to register?
+
+    Contacts
+    Videos and presentations on the DRAKON language
+    Books by Vladimir Parondzhanov Free download
+    DRAKON language. For English speaking world
+
+    Discussion on Medical Education Reform
+    Medical Education Reform Project in Russia
+    Occupational medicine
+    Proceedings of V. Parondzhanov on clinical algorithms
+
+    Program of Gennady Tyshov "IS Dragon"
+    Examples of working with the IS Dragon program
+    Stepan Mytkin's "DrakonHub" program
+    Stepan Mitkin's program "DRAKON Editor"
+    Dmitry Bardynin's program "DrakonBar"
+    Eduard Ilchenko's program "Fabula"
+    Artem Brazovsky's program "DRAKON-Assembler"
+    Dragon schemes in 1C. Programming, implementation, training, support
+    Visual language DRAKON
+    Algorithms in DRAKON schemes
+    DRAKON scheme tools
+    Criticism
+    DRAKON language library
+    the library
+
+Draft materials. Draft Warehouse
+
+    Draft materials. Draft Warehouse
+
+
+> DRAKON scheme tools
+
+DRAKON scheme tools
+
+Editors, code generators, etc.
+
+http://forum.oberoncore.ru/viewforum.php?f=79
+Means 1) 	Developer 	Note
+DRAKON Integrated Environment 	Gennady Tyshov 	
+Code generator for "hybrid language" DRON 	Yaroslav Romanchenko 	Develops in free time.
+DRAKON Editor 	Stepan Mytkin 	
+Schematic editor 	group of Leonid Eisymont 	Not developed, is of historical interest.
+1) Open Development Tools
+        
+Dragon-editor of Leonid Eisymont's group
+
+The editor dragon was developed under the direction of Leonid Eisymont at the Institute of Applied Mathematics of the Russian Academy of Sciences in the early 90s. Currently not developed and is of historical interest.
+
+Editor (works under DOS)
+
+Description of the editor
+
+https://drakon.su/drakon_editor
+
+==
+
+DRAKON Editor
+What is DRAKON Editor?
+
+DRAKON Editor is an editor for drawing algorithms in the DRAKON language.
+
+The DRAKON Editor has two purposes:
+
+    Create diagrams for illustration and documentation.
+    Program using DRAKON-schemes.
+
+The hallmark of DRAKON Editor is simplicity. Diagrams in it are compiled, as in an office graphics program, from segments and squares.
+
+Holding down the Shift key while editing activates a unique "smart" mode. In this mode, you can change the shape of the chart, but not its content. What helps to quickly restore beauty and order in the diagram.
+
+Programmers can use the DRAKON Editor to generate source code from DRAKON schematics. Several programming languages ​​are supported:
+
+    C and C++ (including language extensions from the Qt framework);
+    Java (as well as its subset for computer graphics - Processing.org);
+    C#;
+    Python (versions 2.x and 3.x);
+    Tcl;
+    Javascript;
+    Erlang;
+    Lua.
+
+Editor's website: http://drakon-editor.sourceforge.net/
+Additional features
+
+In addition to the actual editing of diagrams, the following options are available:
+
+    storing several diagrams and a project tree in one file;
+    powerful search and navigation tools;
+    checking the graphic syntax of the DRAKON language;
+    export to PDF;
+    export to PNG.
+
+DRAKON Editor supports all icons from the graphic alphabet of the DRAKON language.
+
+In addition to DRAKON diagrams, using this editor, you can create diagrams of other types:
+
+    sequence diagrams;
+    class diagrams;
+    entity-relationship diagrams.
+
+DRAKON Editor is distributed in Russian and English.
+System requirements
+
+Supported operating systems: Windows, Mac, Linux.
+How to install DRAKON Editor
+
+DRAKON Editor requires the latest version of Tcl/Tk to be installed first.
+
+Mac and Windows users can download Tcl/Tk from here: http://www.activestate.com/activetcl/downloads
+
+Linux users install the following packages:
+
+    tcl8.5
+    tk8.5
+    tcllib
+    libsqlite3-tcl
+    libtk-img
+
+В Ubuntu:
+
+sudo apt-get install tcl8.5 tk8.5 tcllib libsqlite3-tcl libtk-img 
+
+Download DRAKON Editor
+
+You can download the editor from here:
+
+    http://drakon-editor.sourceforge.net/editor.html#downloads
+    http://sourceforge.net/projects/drakon-editor/files/
+
+How to start DRAKON Editor
+
+В Windows:
+
+    unpack zip archive
+    double click on the drakon_editor.tcl file
+
+On Make:
+
+    unpack zip archive
+    run DRAKONEditor.app
+
+Under Linux:
+
+    unpack zip archive
+    in the terminal, go to the folder with the unpacked files and run the command
+
+./drakon_editor.tcl 
+
+The Linux version can be run in the same way, in the terminal, on the Mac.
+
+drakon_gen.tcl is a command line diagram source code generator.
+
+
+
+
+DRAKON Editor is PUBLIC DOMAIN except some third-party components (pdf4tcl, Liberation fonts).
+Authors
+
+Stepan Mitkin, Alexander Ilyin, Maas-Maarten Zeeman, Vasil Dyadov, Vasili Bachiashvili.
+I
+
+run ./drakon_editor.tcl from the terminal
+
+tclsh drakon_editor.tcl
+tclsh drakon_editor.tcl [.drn filename]		
+	
 
