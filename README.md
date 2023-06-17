@@ -22,6 +22,7 @@ Old edition. Parondzhanov V.D. Algorithms and life rhythms in the DRAKON languag
 
 
 https://drakon.su/_nedia/23_zhizneritm22.pdf 
+
 https://drakon.su/_media/24_zhizneritm20.pdf
 
 "Algorithms and life rhythms in the DRAKON language" 
