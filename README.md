@@ -8,6 +8,14 @@
 
 The technology and mathematical system used to develop the AI that controlled the Buran spacecraft.
 
+## From the homepage:
+
+***The goal of our project is universal algorithmization in all areas of life and in all branches of activity***
+
+# Tutorial (in Russian)
+
+https://drakon.su/_media/24_zhizneritm20.pdf
+
 ## TITLE
 
 "Visual language DRAKON"
