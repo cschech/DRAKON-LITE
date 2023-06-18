@@ -12,6 +12,12 @@ The technology and mathematical system used to develop the AI that controlled th
 
 ***The goal of our project is universal algorithmization in all areas of life and in all branches of activity***
 
+# Videos
+
+Editor in action
+
+https://www.youtube.com/watch?v=_4PV78oSdwk
+
 # Textbooks (in Russian)
 
 
@@ -404,7 +410,3 @@ Algirdas Karalyus. Reporting from the NASA Space Center in Orlando, Florida, USA
 Video download link:
 Hello from Orlando
 Hello from Orlando 2 
-
-
-https://www.bbc.com/russian/features-48583773
-https://www.youtube.com/watch?v=YFJzHKHRc48
