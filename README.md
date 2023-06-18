@@ -4,6 +4,8 @@
 
 ![Image](https://github.com/cschech/DRAKON-LITE/blob/master/quick-editing.gif)
 
+![Image](https://github.com/cschech/DRAKON-LITE/blob/master/DRAKON_Editor_1.0_Gameplay.webm)
+
 # SYNOPSIS
 
 The technology and mathematical system used to develop the AI that controlled the Buran spacecraft.
