@@ -404,3 +404,7 @@ Algirdas Karalyus. Reporting from the NASA Space Center in Orlando, Florida, USA
 Video download link:
 Hello from Orlando
 Hello from Orlando 2 
+
+
+https://www.bbc.com/russian/features-48583773
+https://www.youtube.com/watch?v=YFJzHKHRc48
